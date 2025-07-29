@@ -90,6 +90,7 @@ By identifying trends across departments, job roles, and demographics, we can su
 ---
 
 ## 🧠 Author
+
 **Aryan Harsh**  
 Data Analyst | Excel • SQL • Power BI | [GitHub](https://github.com/AryanHarshHarinath) | [LinkedIn](https://www.linkedin.com/in/aryan-harsh)
 
