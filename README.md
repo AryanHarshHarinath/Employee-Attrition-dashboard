@@ -87,9 +87,17 @@ By identifying trends across departments, job roles, and demographics, we can su
 - **MySQL** – SQL Queries & Data Analysis  
 - **Power BI** – Data Visualization & Dashboard Design
 Screenshots Below.
+
+
 https://github.com/AryanHarshHarinath/Employee-Attrition-dashboard/blob/main/Screenshot%202025-07-29%20231801.png
+
+
 https://github.com/AryanHarshHarinath/Employee-Attrition-dashboard/blob/main/Screenshot%202025-07-29%20231801.png
+
+
 https://github.com/AryanHarshHarinath/Employee-Attrition-dashboard/blob/main/Screenshot%202025-07-29%20231822.png
+
+
 ---
 
 ## 🧠 Author
