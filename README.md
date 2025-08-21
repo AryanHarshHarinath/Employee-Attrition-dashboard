@@ -89,13 +89,9 @@ By identifying trends across departments, job roles, and demographics, we can su
 Screenshots Below.
 
 
-https://github.com/AryanHarshHarinath/Employee-Attrition-dashboard/blob/main/Screenshot%202025-07-29%20231801.png
+https://github.com/AryanHarshHarinath/Employee-Attrition-dashboard/blob/main/Screenshot%202025-07-29%20231717.png
 
 
-https://github.com/AryanHarshHarinath/Employee-Attrition-dashboard/blob/main/Screenshot%202025-07-29%20231801.png
-
-
-https://github.com/AryanHarshHarinath/Employee-Attrition-dashboard/blob/main/Screenshot%202025-07-29%20231822.png
 
 
 ---
